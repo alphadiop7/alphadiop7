@@ -2,45 +2,45 @@
   <img src="https://raw.githubusercontent.com/alphadiop7/alphadiop7/main/bg.jpg" alt="Alpha Diop">
 </div>
 
-# Bonjour, je suis Alpha Diop 👋
+# Hello, I'm Alpha Diop 👋
 
-Je suis un passionné du numérique basé au Sénégal 🇸🇳. Actuellement étudiant en informatique, je me spécialise dans le développement d'applications web et mobiles.
+I'm a digital enthusiast based in Senegal 🇸🇳. Currently, I'm a computer science student specializing in web and mobile app development.
 
-## Compétences
+## Skills
 
-- 🌐 Développement web : HTML, CSS, JavaScript, React, PHP
-- 📱 Développement mobile : Java
-- 💻 Langages de programmation : JavaScript, PHP
-- 🛢️ Base de données : MySQL, MongoDB
-- 🔧 Outils : Git, Visual Studio Code
+- 🌐 Web Development: HTML, CSS, JavaScript, React, PHP
+- 📱 Mobile Development: Java
+- 💻 Programming Languages: JavaScript, PHP
+- 🛢️ Databases: MySQL, MongoDB
+- 🔧 Tools: Git, Visual Studio Code
 
-## Projets
+## Projects
 
-- 🚀 [Projet 1](lien_vers_projet_1) - Une application web à succès qui a attiré plus de 10 000 utilisateurs en un mois.
-- 🌟 [Projet 2](lien_vers_projet_2) - Une application mobile primée avec une note de 4,9/5 sur les magasins d'applications.
-- 💡 [Projet 3](lien_vers_projet_3) - Un projet React innovant qui a été présenté lors d'une conférence internationale.
+- 🚀 [Project 1](project_link_1) - A successful web application that attracted over 10,000 users in a month.
+- 🌟 [Project 2](project_link_2) - An award-winning mobile app with a rating of 4.9/5 on app stores.
+- 💡 [Project 3](project_link_3) - An innovative React project presented at an international conference.
 
-## Contributions Open-Source
+## Open-Source Contributions
 
-- 🎯 [Projet Open-Source 1](lien_vers_projet_open_source_1) - Contribution majeure au développement d'une bibliothèque JavaScript populaire.
-- 🌈 [Projet Open-Source 2](lien_vers_projet_open_source_2) - Collaboration active dans une communauté open-source pour promouvoir l'égalité des genres dans la technologie.
+- 🎯 [Open-Source Project 1](open_source_link_1) - Major contribution to the development of a popular JavaScript library.
+- 🌈 [Open-Source Project 2](open_source_link_2) - Active collaboration in an open-source community to promote gender equality in technology.
 
-## Me contacter
+## Contact Me
 
-📧 Vous pouvez me contacter par e-mail à alpha.diop@example.com.
+📧 You can contact me via email at alpha.diop@example.com.
 
-🌐 Retrouvez-moi sur [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alpha%20Diop-blue)](https://www.linkedin.com/in/alphadiopctrl/) | [![Twitter](https://img.shields.io/badge/Twitter-%40alphadiopctrl-blue)](https://www.twitter.com/alphadiopctrl) | [![Instagram](https://img.shields.io/badge/Instagram-%40alphadiopctrl-red)](https://www.instagram.com/alphadiopctrl) | [![Facebook](https://img.shields.io/badge/Facebook-Alpha%20Diop-blue)](https://www.facebook.com/alphadiopctrl)
+🌐 Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alpha%20Diop-blue)](https://www.linkedin.com/in/alphadiopctrl/) | [![Twitter](https://img.shields.io/badge/Twitter-%40alphadiopctrl-blue)](https://www.twitter.com/alphadiopctrl) | [![Instagram](https://img.shields.io/badge/Instagram-%40alphadiopctrl-red)](https://www.instagram.com/alphadiopctrl) | [![Facebook](https://img.shields.io/badge/Facebook-Alpha%20Diop-blue)](https://www.facebook.com/alphadiopctrl)
 
-🌐 Site Web : [alphadiop.com](https://alphadiop.vercel.app/)
+🌐 Website: [alphadiop.com](https://alphadiop.vercel.app/)
 
-N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de projets passionnants ! Je suis toujours ouvert aux opportunités de collaboration.
+Feel free to reach out if you have any questions or want to discuss exciting projects! I'm always open to collaboration opportunities.
 
 ---
 
 <div align="center">
   <a href="https://github.com/alphadiop7">
     <div style="width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=alphadiop7&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" alt="Statistiques GitHub de Alpha Diop">
+      <img src="https://github-readme-stats.vercel.app/api?username=alphadiop7&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" alt="Alpha Diop's GitHub Stats">
     </div>
   </a>
 </div>
