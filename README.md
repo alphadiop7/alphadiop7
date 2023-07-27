@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alphadiop7/alphadiop7/main/bg.jpg" alt="Alpha Diop" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/alphadiop7/alphadiop7/main/bg.jpg" alt="Alpha Diop">
 </div>
 
 # Bonjour, je suis Alpha Diop 👋
@@ -31,7 +31,7 @@ Je suis un passionné du numérique basé au Sénégal 🇸🇳. Actuellement é
 
 🌐 Retrouvez-moi sur [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alpha%20Diop-blue)](https://www.linkedin.com/in/alphadiopctrl/) | [![Twitter](https://img.shields.io/badge/Twitter-%40alphadiopctrl-blue)](https://www.twitter.com/alphadiopctrl) | [![Instagram](https://img.shields.io/badge/Instagram-%40alphadiopctrl-red)](https://www.instagram.com/alphadiopctrl) | [![Facebook](https://img.shields.io/badge/Facebook-Alpha%20Diop-blue)](https://www.facebook.com/alphadiopctrl)
 
-🌐 Site Web : [alphadiop.com](https://www.alphadiop.com)
+🌐 Site Web : [alphadiop.com](https://alphadiop.vercel.app/)
 
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de projets passionnants ! Je suis toujours ouvert aux opportunités de collaboration.
 
