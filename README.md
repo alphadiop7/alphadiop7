@@ -1,12 +1,8 @@
 <div align="center">
-  <a href="https://github.com/alphadiop7">
-    <div style="width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=alphadiop7&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" alt="Statistiques GitHub de Alpha Diop">
-    </div>
-  </a>
+  <img src="https://raw.githubusercontent.com/alphadiop7/alphadiop7/main/bg.jpg" alt="Alpha Diop" width="200" height="200">
 </div>
 
-# Salut ! Je suis Alpha Diop 👋
+# Bonjour, je suis Alpha Diop 👋
 
 Je suis un passionné du numérique basé au Sénégal 🇸🇳. Actuellement étudiant en informatique, je me spécialise dans le développement d'applications web et mobiles.
 
@@ -20,13 +16,14 @@ Je suis un passionné du numérique basé au Sénégal 🇸🇳. Actuellement é
 
 ## Projets
 
-J'ai travaillé sur divers projets passionnants, notamment :
+- 🚀 [Projet 1](lien_vers_projet_1) - Une application web à succès qui a attiré plus de 10 000 utilisateurs en un mois.
+- 🌟 [Projet 2](lien_vers_projet_2) - Une application mobile primée avec une note de 4,9/5 sur les magasins d'applications.
+- 💡 [Projet 3](lien_vers_projet_3) - Un projet React innovant qui a été présenté lors d'une conférence internationale.
 
-- 🚀 [Projet 1](lien_vers_projet_1) - Une application web pour ...
-- 🌟 [Projet 2](lien_vers_projet_2) - Une application mobile pour ...
-- 💡 [Projet 3](lien_vers_projet_3) - Un projet React pour ...
+## Contributions Open-Source
 
-N'hésitez pas à explorer mon profil pour en savoir plus sur mes contributions et projets.
+- 🎯 [Projet Open-Source 1](lien_vers_projet_open_source_1) - Contribution majeure au développement d'une bibliothèque JavaScript populaire.
+- 🌈 [Projet Open-Source 2](lien_vers_projet_open_source_2) - Collaboration active dans une communauté open-source pour promouvoir l'égalité des genres dans la technologie.
 
 ## Me contacter
 
@@ -34,4 +31,16 @@ N'hésitez pas à explorer mon profil pour en savoir plus sur mes contributions 
 
 🌐 Retrouvez-moi sur [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alpha%20Diop-blue)](https://www.linkedin.com/in/alphadiopctrl/) | [![Twitter](https://img.shields.io/badge/Twitter-%40alphadiopctrl-blue)](https://www.twitter.com/alphadiopctrl) | [![Instagram](https://img.shields.io/badge/Instagram-%40alphadiopctrl-red)](https://www.instagram.com/alphadiopctrl) | [![Facebook](https://img.shields.io/badge/Facebook-Alpha%20Diop-blue)](https://www.facebook.com/alphadiopctrl)
 
+🌐 Site Web : [alphadiop.com](https://www.alphadiop.com)
+
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de projets passionnants ! Je suis toujours ouvert aux opportunités de collaboration.
+
+---
+
+<div align="center">
+  <a href="https://github.com/alphadiop7">
+    <div style="width: 100%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=alphadiop7&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" alt="Statistiques GitHub de Alpha Diop">
+    </div>
+  </a>
+</div>
