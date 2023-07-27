@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/90140491?s=400&u=bb92302c40d5872563d7d94ef92e6b53fbc1e832&v=4" alt="Alpha Diop" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/90140491?s=400&u=bb92302c40d5872563d7d94ef92e6b53fbc1e832&v=4" alt="Alpha Diop" width="500" height="500">
 </div>
 
 # Salut ! Je suis Alpha Diop 👋
@@ -10,7 +10,7 @@ Je suis un passionné du numérique basé au Sénégal 🇸🇳. Actuellement é
 
 - 🌐 Développement web : HTML, CSS, JavaScript, React, PHP
 - 📱 Développement mobile : Java
-- 💻 Langages de programmation : Python, Java, C++
+- 💻 Langages de programmation : JavaScript, PHP
 - 🛢️ Base de données : MySQL, MongoDB
 - 🔧 Outils : Git, Visual Studio Code
 
