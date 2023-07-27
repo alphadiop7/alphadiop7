@@ -24,7 +24,7 @@ N'hésitez pas à explorer mon profil pour en savoir plus sur mes contributions 
 
 📧 Vous pouvez me contacter par e-mail à alpha.diop@example.com.
 
-🌐 Retrouvez-moi sur [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alpha%20Diop-blue)](https://www.linkedin.com/in/alphadiopctrl/) | 🐦 Suivez-moi sur [![Twitter](https://img.shields.io/badge/Twitter-%40alphadiopctrl-blue)](https://www.twitter.com/alphadiopctrl) | 📷 Découvrez mes photos sur [![Instagram](https://img.shields.io/badge/Instagram-%40alphadiopctrl-red)](https://www.instagram.com/alphadiopctrl) | 👍 Connectez-vous avec moi sur [![Facebook](https://img.shields.io/badge/Facebook-Alpha%20Diop-blue)](https://www.facebook.com/alphadiopctrl)
+🌐 Retrouvez-moi sur [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alpha%20Diop-blue)](https://www.linkedin.com/in/alphadiopctrl/) &nbsp;| &nbsp;🐦 Suivez-moi sur [![Twitter](https://img.shields.io/badge/Twitter-%40alphadiopctrl-blue)](https://www.twitter.com/alphadiopctrl) &nbsp;| &nbsp;📷 Découvrez mes photos sur [![Instagram](https://img.shields.io/badge/Instagram-%40alphadiopctrl-red)](https://www.instagram.com/alphadiopctrl) &nbsp;| &nbsp;👍 Connectez-vous avec moi sur [![Facebook](https://img.shields.io/badge/Facebook-Alpha%20Diop-blue)](https://www.facebook.com/alphadiopctrl)
 
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de projets passionnants ! Je suis toujours ouvert aux opportunités de collaboration.
 
