@@ -33,4 +33,4 @@ Feel free to reach out if you have any questions or want to discuss exciting pro
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alphadiop7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alphadiop7&hide_border=true&mode=weekly&card_width=600)](https://git.io/streak-stats)
