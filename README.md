@@ -12,7 +12,7 @@ I'm a digital enthusiast based in Senegal 🇸🇳. Currently, I'm a computer sc
 
 ## Contact Me
 
-📧 You can contact me via email at <alpha.diop@example.com>.
+📧 You can contact me via email at <alpha.diop@outlook.com>.
 
 🌐 Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alpha%20Diop-blue)](https://www.linkedin.com/in/alphadiopctrl/) | [![Twitter](https://img.shields.io/badge/Twitter-%40alphadiopctrl-blue)](https://www.twitter.com/alphadiopctrl) | [![Instagram](https://img.shields.io/badge/Instagram-%40alphadiopctrl-red)](https://www.instagram.com/alphadiopctrl) | [![Facebook](https://img.shields.io/badge/Facebook-Alpha%20Diop-blue)](https://www.facebook.com/alphadiopctrl)
 
