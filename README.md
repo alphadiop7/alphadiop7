@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alphadiop7/alphadiop7/main/bg.jpg" alt="Alpha Diop">
-</div>
-
 # Hello, I'm Alpha Diop 👋
 
 I'm a digital enthusiast based in Senegal 🇸🇳. Currently, I'm a computer science student specializing in web and mobile app development.
@@ -37,10 +33,4 @@ Feel free to reach out if you have any questions or want to discuss exciting pro
 
 ---
 
-<div align="center">
-  <a href="https://github.com/alphadiop7">
-    <div style="width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=alphadiop7&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" alt="Alpha Diop's GitHub Stats">
-    </div>
-  </a>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alphadiop7)](https://git.io/streak-stats)
